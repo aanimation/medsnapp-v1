@@ -1,0 +1,2 @@
+<script src="https://widget.senja.io/widget/cdc5bab1-2ccc-4ee3-9996-cec8b3f3f259/platform.js" type="text/javascript" async></script>
+<div class="senja-embed" data-id="cdc5bab1-2ccc-4ee3-9996-cec8b3f3f259" data-mode="shadow" data-lazyload="false" style="display: block;"></div>

@@ -1,0 +1,51 @@
+
+[
+    {
+        "name":"50 coins",
+        "icon":"coin",
+        "price":1.97,
+        "damage":50
+    },
+    {
+        "name":"100 coins",
+        "icon":"coin",
+        "price":3.87,
+        "damage":100
+    },
+    {
+        "name":"250 coins",
+        "icon":"coin",
+        "price":9.27,
+        "damage":250
+    },
+    {
+        "name":"500 coins",
+        "icon":"coin",
+        "price":16.97,
+        "damage":500
+    },
+    {
+        "name":"25 energy",
+        "icon":"energy",
+        "price":2.97,
+        "damage":25
+    },
+    {
+        "name":"50 energy",
+        "icon":"energy",
+        "price":5.67,
+        "damage":50
+    },
+    {
+        "name":"100 energy",
+        "icon":"energy",
+        "price":10.37,
+        "damage":100
+    },
+    {
+        "name":"200 energy",
+        "icon":"energy",
+        "price":19.97,
+        "damage":200
+    }
+]

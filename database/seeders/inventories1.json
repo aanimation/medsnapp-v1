@@ -1,0 +1,1363 @@
+[
+
+  {
+    "name": "Cardiovascular",
+    "type": "examination",
+    "cat": "Cardiovascular",
+    "icon": "cardiology",
+    "specifications": "[\"Tachycardia (Heart rate: 115 bpm)\",\n\"Hypotension (Blood pressure: 100/65 mmHg)\",\n\"No evidence of JVP elevation at rest\",\n\"No murmurs heard on auscultation\",\n\"Regular rhythm without additional heart sounds\"]",
+    "price": 0,
+    "damage": 9
+  },
+  {
+    "name": "Peripheral Vascular",
+    "type": "examination",
+    "cat": "Cardiovascular",
+    "icon": "femur",
+    "specifications": "[\"Peripheral pulses palpable and symmetrical\",\n\"No evidence of peripheral edema\",\n\"No signs of arterial or venous insufficiency\",\n\"Capillary refill time within normal limits\",\n\"No temperature gradient or colour change in extremities\"]",
+    "price": 0,
+    "damage": 6
+  },
+  {
+    "name": "Respiratory",
+    "type": "examination",
+    "cat": "Respiratory",
+    "icon": "respiratory_rate",
+    "specifications": "[\"Tachypnoea (Respiratory rate: 28 bpm)\",\n\"Clear breath sounds without crackles or wheezes\",\n\"No signs of respiratory distress at rest\",\n\"Oxygen saturation maintained at 97% on room air\",\n\"No use of accessory muscles for breathing\"]",
+    "price": 0,
+    "damage": 8
+  },
+  {
+    "name": "Abdominal",
+    "type": "examination",
+    "cat": "Gastoenterology",
+    "icon": "emoji_people",
+    "specifications": "[\"Abdomen soft and not distended\"\n\"No hepatomegaly or splenomegaly palpable\"\n\"No signs of ascites\"\n\"Bowel sounds present and normal\"\n\"No abdominal tenderness or guarding\"]",
+    "price": 0,
+    "damage": 9
+  },
+  {
+    "name": "Digital Rectal",
+    "type": "examination",
+    "cat": "Gastoenterology",
+    "icon": "airline_seat_legroom_normal",
+    "specifications": "[\"No masses palpable\",\n\"Normal sphincter tone\",\n\"No blood or melaena on digital examination\",\n\"No signs of rectal or perirectal infection\",\n\"Prostate not enlarged or tender\"]",
+    "price": 0,
+    "damage": 5
+  },
+  {
+    "name": "Upper Limb Neurological",
+    "type": "examination",
+    "cat": "Neurological",
+    "icon": "self_improvement",
+    "specifications": "[\"Normal muscle strength and tone in upper limbs\",\n\"Intact sensation to light touch and pinprick\",\n\"Normal deep tendon reflexes (biceps, triceps, brachioradialis)\",\n\"No evidence of tremor or involuntary movements\",\n\"Coordination and fine motor skills intact\"]",
+    "price": 0,
+    "damage": 10
+  },
+  {
+    "name": "Lower Limb Neurological",
+    "type": "examination",
+    "cat": "Neurological",
+    "icon": "self_improvement",
+    "specifications": "[\"Normal muscle strength and tone in lower limbs\",\n\"Intact sensation to light touch and pinprick\",\n\"Normal deep tendon reflexes (knee and ankle jerks)\",\n\"No evidence of tremor or involuntary movements\",\n\"Coordination and gait normal\"]",
+    "price": 0,
+    "damage": 10
+  },
+  {
+    "name": "Cranial Nerve",
+    "type": "examination",
+    "cat": "Neurological",
+    "icon": "neurology",
+    "specifications": "[\"Pupils equal, round, and reactive to light and accommodation\",\n\"Extraocular movements intact without nystagmus\",\n\"Facial symmetry preserved with no signs of palsy\",\n\"Normal hearing and balance\",\n\"No abnormalities in taste or smell\"]",
+    "price": 0,
+    "damage": 7
+  },
+  {
+    "name": "Cerebellar",
+    "type": "examination",
+    "cat": "Neurological",
+    "icon": "network_intelligence_update",
+    "specifications": "[\"Normal finger-to-nose and heel-to-shin tests\",\n\"No dysdiadochokinesia or intention tremor\",\n\"Normal gait and stance without ataxia\",\n\"Romberg test negative\",\n\"Normal rapid alternating movements\"]",
+    "price": 0,
+    "damage": 5
+  },
+  {
+    "name": "Thyroid",
+    "type": "examination",
+    "cat": "Endocrine",
+    "icon": "cognition",
+    "specifications": "[\"No palpable thyroid enlargement or nodules\",\n\"No signs of thyroiditis (tenderness, warmth, erythema)\",\n\"No exophthalmos or lid lag\",\n\"Normal thyroid function suggested by clinical appearance\",\n\"No bruit over thyroid gland\"]",
+    "price": 0,
+    "damage": 5
+    },
+ {
+   "name": "Full Blood Count (FBC)",
+   "cat": "Blood Tests",
+   "component": "Haemoglobin (Hb)",
+   "value": "130 - 170",
+   "female": "120 - 150",
+   "unit": "g/L",
+   "type": "investigation",
+   "price": 1
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Platelets",
+   "value": "150 - 400",
+   "female": null,
+   "unit": "x10⁹/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "White Blood Cells (WBC)",
+   "value": "3.0 - 10.0",
+   "female": null,
+   "unit": "x10⁹/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Neutrophils",
+   "value": "2.0 - 7.0",
+   "female": null,
+   "unit": "x10⁹/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Lymphocytes",
+   "value": "1.0 - 3.0",
+   "female": null,
+   "unit": "x10⁹/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Monocytes",
+   "value": "0.2 - 1.0",
+   "female": null,
+   "unit": "x10⁹/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Eosinophils",
+   "value": "0.02 - 0.5",
+   "female": null,
+   "unit": "x10⁹/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Basophils",
+   "value": "0.02 - 1",
+   "female": null,
+   "unit": "x10⁹/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Haematocrit",
+   "value": "0.4 - 0.5",
+   "female": "0.36 - 0.46",
+   "unit": "g/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Red Cell Count (RCC)",
+   "value": "4.5 - 6.5",
+   "female": "3.8 - 5.8",
+   "unit": "x10⁹/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Mean Cell Volume (MCV)",
+   "value": "80 - 100",
+   "female": null,
+   "unit": "fL",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Mean Corpuscular Volume (MCH)",
+   "value": "27 - 32",
+   "female": null,
+   "unit": "pg/cell",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Reticulocyte Count",
+   "value": "50 - 100",
+   "female": null,
+   "unit": "x10⁹/L",
+   "type": "investigation",
+   "price": null
+ }, 
+ {
+   "name": "Urea and Electrolytes (U&Es)",
+   "cat": "Blood Tests",
+   "component": "Sodium",
+   "value": "135 - 145",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": 1
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Potassium",
+   "value": "3.5 - 5.1",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Chloride",
+   "value": "95 - 105",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Bicarbonate",
+   "value": "22 - 29",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Urea",
+   "value": "2.5 - 7.8",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Creatinine",
+   "value": "60 - 120",
+   "female": null,
+   "unit": "μmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "eGFR",
+   "value": ">60",
+   "female": null,
+   "unit": "ml/min/1.73m³",
+   "type": "investigation",
+   "price": null
+ }, 
+ {
+   "name": "Liver Function Tests (LFTs)",
+   "cat": "Blood Tests",
+   "component": "Total Bilirubin",
+   "value": "0 - 21",
+   "female": null,
+   "unit": "μmol/L",
+   "type": "investigation",
+   "price": 1
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Alanine Transferase (ALT)",
+   "value": "10 - 40",
+   "female": null,
+   "unit": "IU/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Aspartate Transaminase (AST)",
+   "value": "10 - 40",
+   "female": null,
+   "unit": "IU/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Alkaline Phosphatase (ALP)",
+   "value": "30 - 130",
+   "female": null,
+   "unit": "IU/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Gamma Glutamyl Transferase (GGT)",
+   "value": "8 - 55",
+   "female": null,
+   "unit": "IU/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Albumin",
+   "value": "35 - 50",
+   "female": null,
+   "unit": "g/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Total Protein",
+   "value": "60 - 80",
+   "female": null,
+   "unit": "g/L",
+   "type": "investigation",
+   "price": null
+ }, 
+ {
+   "name": "C-reactive Protein (CRP)",
+   "cat": "Blood Tests",
+   "component": "C-reactive Protein (CRP)",
+   "value": "<5",
+   "female": null,
+   "unit": "mg/L",
+   "type": "investigation",
+   "price": 1
+ }, 
+ {
+   "name": "Coagulation Screen",
+   "cat": "Blood Tests",
+   "component": "Prothrombin Time (PT)",
+   "value": "9 - 13",
+   "female": null,
+   "unit": "seconds",
+   "type": "investigation",
+   "price": 2
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Activated Partial Thromboplastin Time (APTT)",
+   "value": "25 - 35",
+   "female": null,
+   "unit": "seconds",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Thrombin Time (TT)",
+   "value": "12 - 14",
+   "female": null,
+   "unit": "seconds",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Fibrinogen",
+   "value": "1.5 - 4.0",
+   "female": null,
+   "unit": "g/dL",
+   "type": "investigation",
+   "price": null
+ }, 
+ {
+   "name": "International Normalised Ratio (INR)",
+   "cat": "Blood Tests",
+   "component": "International Normalised Ratio (INR)",
+   "value": "0.8 - 1.2",
+   "female": null,
+   "unit": "-",
+   "type": "investigation",
+   "price": 4
+ }, 
+ {
+   "name": "D-dimer",
+   "cat": "Blood Tests",
+   "component": "D-dimer",
+   "value": "<500",
+   "female": null,
+   "unit": "ng/ml",
+   "type": "investigation",
+   "price": 3
+ }, 
+ {
+   "name": "Lactate",
+   "cat": "Blood Tests",
+   "component": "Lactate",
+   "value": "0.5 - 2.2",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": 2
+ }, 
+ {
+   "name": "Haematinics",
+   "cat": "Blood Tests",
+   "component": "Ferritin",
+   "value": "30 - 400",
+   "female": "15 - 200",
+   "unit": "ng/mL",
+   "type": "investigation",
+   "price": 3
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Vitamin B12",
+   "value": "200 - 900",
+   "female": null,
+   "unit": "ng/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Folate",
+   "value": "3 - 20",
+   "female": null,
+   "unit": "ng/mL",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Total Serum Iron",
+   "value": "10 - 30",
+   "female": null,
+   "unit": "µmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Transferrin",
+   "value": "2.0 - 3.6",
+   "female": null,
+   "unit": "g/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Transferrin Saturation",
+   "value": "20 - 50",
+   "female": null,
+   "unit": "%",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Total Iron Binding Capacity (TIBC)",
+   "value": "45 - 72",
+   "female": null,
+   "unit": "µmol/L",
+   "type": "investigation",
+   "price": null
+ }, 
+ {
+   "name": "Erythrocyte Sedimentation Rate (ESR)",
+   "cat": "Blood Tests",
+   "component": "Erythrocyte Sedimentation Rate (ESR)",
+   "value": "0 - 20",
+   "female": "0 - 30",
+   "unit": "mm/hr",
+   "type": "investigation",
+   "price": 5
+ }, 
+ {
+   "name": "Lipid Profile",
+   "cat": "Blood Tests",
+   "component": "Total Cholesterol",
+   "value": "<6.5",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": 4
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Triglycerides",
+   "value": "<1.7",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "High Density Lipoproteins (HDL)",
+   "value": ">1.0",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Low Density Lipoproteins (LDL)",
+   "value": "<3.0",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ }, 
+ {
+   "name": "Thyroid Function Tests",
+   "cat": "Blood Tests",
+   "component": "Thyroid Stimulating Hormone (TSH)",
+   "value": "0.4 - 4.0",
+   "female": null,
+   "unit": "mU/L",
+   "type": "investigation",
+   "price": 3
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Free Triiodothyronine (T3)",
+   "value": "3.1 - 6.8",
+   "female": null,
+   "unit": "pmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Free Thyroxine (T4)",
+   "value": "12 - 22",
+   "female": null,
+   "unit": "pmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Total thyroxine (T4)",
+   "value": "60 - 150",
+   "female": null,
+   "unit": "nmol/L",
+   "type": "investigation",
+   "price": null
+ }, 
+ {
+   "name": "Bone Profile",
+   "cat": "Blood Tests",
+   "component": "Adjusted Calcium",
+   "value": "2.2 - 2.6",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": 2
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Phosphate",
+   "value": "0.8 - 1.5",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Albumin",
+   "value": "35 - 50",
+   "female": null,
+   "unit": "g/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Alkaline Phosphatase",
+   "value": "30 - 130",
+   "female": null,
+   "unit": "IU/L",
+   "type": "investigation",
+   "price": null
+ }, 
+ {
+   "name": "Parathyroid Hormone (PTH)",
+   "cat": "Blood Tests",
+   "component": "Parathyroid Hormone",
+   "value": "1.6 - 6.9",
+   "female": null,
+   "unit": "pmol/L",
+   "type": "investigation",
+   "price": 5
+ }, 
+ {
+   "name": "Magnesium",
+   "cat": "Blood Tests",
+   "component": "Magnesium",
+   "value": "0.7 - 1.0",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": 2
+ }, 
+ {
+   "name": "Troponin",
+   "cat": "Blood Tests",
+   "component": "Troponin T",
+   "value": "<14",
+   "female": null,
+   "unit": "ng/L",
+   "type": "investigation",
+   "price": 3
+ }, 
+ {
+   "name": "NT-proBNP",
+   "cat": "Blood Tests",
+   "component": "NT-proBNP",
+   "value": "<400",
+   "female": null,
+   "unit": "pg/ml",
+   "type": "investigation",
+   "price": 4
+ }, 
+ {
+   "name": "Creatinine Kinase",
+   "cat": "Blood Tests",
+   "component": "Creatinine Kinase",
+   "value": "40 - 320",
+   "female": "25 - 200",
+   "unit": "IU/L",
+   "type": "investigation",
+   "price": 4
+ }, 
+ {
+   "name": "Glucose",
+   "cat": "Blood Tests",
+   "component": "Glucose",
+   "value": "<7.8",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": 2
+ }, 
+ {
+   "name": "HbA1c",
+   "cat": "Blood Tests",
+   "component": "HbA1c",
+   "value": "<42",
+   "female": null,
+   "unit": "mmol/mol",
+   "type": "investigation",
+   "price": 4
+ }, 
+ {
+   "name": "Amylase",
+   "cat": "Blood Tests",
+   "component": "Amylase",
+   "value": "30 -110",
+   "female": null,
+   "unit": "U/L",
+   "type": "investigation",
+   "price": 3
+ }, 
+ {
+   "name": "Uric Acid",
+   "cat": "Blood Tests",
+   "component": "Uric Acid",
+   "value": "210 - 430",
+   "female": "140 - 360",
+   "unit": "µmol/L",
+   "type": "investigation",
+   "price": 4
+ }, 
+ {
+   "name": "Cortisol",
+   "cat": "Blood Tests",
+   "component": "Cortisol",
+   "value": "Morning: 200 - 700\nAfternoon: 100 - 400\nMidnight: <50",
+   "female": null,
+   "unit": "nmol/L",
+   "type": "investigation",
+   "price": 5
+ },
+ {
+   "name": "Prolactin",
+   "cat": "Blood Tests",
+   "component": "Prolactin",
+   "value": "45 - 375",
+   "female": "(non-pregnant) 59 - 619",
+   "unit": "mIU/L",
+   "type": "investigation",
+   "price": 5
+ }, 
+ {
+   "name": "Ketones",
+   "cat": "Blood Tests",
+   "component": "Ketones",
+   "value": "<0.6",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": 5
+ }, 
+ {
+   "name": "Blood Culture",
+   "cat": "Blood Tests",
+   "component": "Blood Culture",
+   "value": "-",
+   "female": null,
+   "unit": "-",
+   "type": "investigation",
+   "price": 2
+ }, 
+ {
+   "name": "Peripheral Blood Film",
+   "cat": "Blood Tests",
+   "component": "Peripheral Blood Film",
+   "value": "-",
+   "female": null,
+   "unit": "-",
+   "type": "investigation",
+   "price": 5
+ }, 
+ {
+   "name": "Group and Save",
+   "cat": "Blood Tests",
+   "component": "Group and Save",
+   "value": "-",
+   "female": null,
+   "unit": "-",
+   "type": "investigation",
+   "price": 3
+ }, 
+ {
+   "name": "Crossmatch",
+   "cat": "Blood Tests",
+   "component": "Crossmatch",
+   "value": "-",
+   "female": null,
+   "unit": "-",
+   "type": "investigation",
+   "price": 4
+ }, 
+ {
+   "name": "Arterial Blood Gas",
+   "cat": "Blood Tests",
+   "component": "pH",
+   "value": "7.35 - 7.45",
+   "female": null,
+   "unit": "-",
+   "type": "investigation",
+   "price": 3
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "pO₂",
+   "value": "10 - 13.3",
+   "female": null,
+   "unit": "kPa",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "PCO₂",
+   "value": "4.7 - 6.0",
+   "female": null,
+   "unit": "kPa",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "HCO₃",
+   "value": "22 - 26",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Base Excess",
+   "value": "-2 to +2",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ }, 
+ {
+   "name": "Venous Blood Gas",
+   "cat": "Blood Tests",
+   "component": "pH",
+   "value": "7.31 - 7.41",
+   "female": null,
+   "unit": "-",
+   "type": "investigation",
+   "price": 3
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "pO₂",
+   "value": "4.0 - 5.3",
+   "female": null,
+   "unit": "kPa",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "PCO₂",
+   "value": "5.3 - 6.6",
+   "female": null,
+   "unit": "kPa",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "HCO₃",
+   "value": "22 - 26",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Base Excess",
+   "value": "-2 to +2",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": null,
+   "cat": "Blood Tests",
+   "component": "Base Excess",
+   "value": "-2 to +2",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": null
+ },
+ {
+   "name": "Plasma Osmolality",
+   "cat": "Blood Tests",
+   "component": "Plasma Osmolality",
+   "value": "275 - 295",
+   "female": null,
+   "unit": "mmol/L",
+   "type": "investigation",
+   "price": 3
+ },
+    {
+   "name": "Urinalysis",
+   "component": "pH",
+   "value": "4.5 - 8.0",
+   "unit": null,
+   "price": 2,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Specific Gravity",
+   "value": "1.005 - 1.030",
+   "unit": null,
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Protein",
+   "value": "Negative",
+   "unit": null,
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Glucose",
+   "value": "Negative",
+   "unit": null,
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Ketones",
+   "value": "Negative",
+   "unit": null,
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Leukocytes",
+   "value": "Negative",
+   "unit": null,
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Nitrite",
+   "value": "Negative",
+   "unit": null,
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Bilirubin",
+   "value": "Negative",
+   "unit": null,
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Urobilinogen",
+   "value": "0.2 - 1.0",
+   "unit": "mg/dL",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Blood",
+   "value": "Negative",
+   "unit": null,
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": "Urine Culture",
+   "component": "Urine Culture",
+   "value": "No growth",
+   "unit": "-",
+   "price": 2,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": "24 Hour Urine Collection",
+   "component": "Volume",
+   "value": "800 - 2,000",
+   "unit": "mL/day",
+   "price": 4,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Creatinine",
+   "value": "8.8 - 17.6",
+   "unit": "mmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": "7.0 - 15.0"
+ },
+ {
+   "name": null,
+   "component": "Protein",
+   "value": "<150",
+   "unit": "mg/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Calcium",
+   "value": "2.5 - 7.5",
+   "unit": "mmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Sodium",
+   "value": "40 - 220",
+   "unit": "mmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Potassium",
+   "value": "25 - 125",
+   "unit": "mmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Urea Nitrogen",
+   "value": "167 - 583",
+   "unit": "mmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Uric Acid",
+   "value": "1.5 - 4.4",
+   "unit": "mmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Chloride",
+   "value": "110 - 250",
+   "unit": "mmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Phosphate",
+   "value": "13 - 42",
+   "unit": "mmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Magnesium",
+   "value": "3.0 - 5.0",
+   "unit": "mmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Cortisol",
+   "value": "27.6 - 276",
+   "unit": "nmol/day",
+   "price": null,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": "Urine Osmolality",
+   "component": "Urine Osmolality",
+   "value": "50 - 1,200",
+   "unit": "mOsm/kg H₂O",
+   "price": 3,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "component": "Urinary Drug Screen",
+   "value": "Negative",
+   "unit": "-",
+   "price": 5,
+   "type": "investigation",
+   "cat": "Urinary Tests",
+   "female": null
+ },
+ {
+   "name": "Urine Cytology",
+   "component": "Urine Cytology",
+   "value": "-",
+   "unit": "-",
+   "price": 5,
+   "female": null,
+   "cat": "Urinary Tests",
+   "type": "investigation"
+ },
+ {
+   "name": "β-HCG",
+   "component": "β-HCG",
+   "value": "Negative",
+   "unit": "",
+   "price": 4,
+   "female": null,
+   "cat": "Urinary Tests",
+   "type": "investigation"
+ },
+ {
+   "name": "Bence Jones Proteins",
+   "component": "Bence Jones Proteins",
+   "value": "Normal protein pattern",
+   "unit": "-",
+   "price": 5,
+   "female": null,
+   "cat": "Urinary Tests",
+   "type": "investigation"
+    },
+ {
+   "name": "Chest X-ray",
+   "component": "Chest X-ray",
+   "value": "-",
+   "unit": "-",
+   "price": 2,
+   "type": "investigation",
+   "cat": "Imaging",
+   "female": null
+ },
+ {
+   "name": "Abdominal X-ray",
+   "component": "Abdominal X-ray",
+   "value": "-",
+   "unit": "-",
+   "price": 3,
+   "type": "investigation",
+   "cat": "Imaging",
+   "female": null
+ },
+ {
+   "name": "CT Head",
+   "component": "CT Head",
+   "value": "-",
+   "unit": "-",
+   "price": 5,
+   "type": "investigation",
+   "cat": "Imaging",
+   "female": null
+ },
+ {
+   "name": "Musculoskeletal X-ray",
+   "component": "Musculoskeletal X-ray",
+   "value": "-",
+   "unit": "-",
+   "price": 5,
+   "type": "investigation",
+   "cat": "Imaging",
+   "female": null
+    },
+ {
+   "name": "Lumbar Puncture",
+   "component": "Appearance",
+   "value": "Clear/colourless",
+   "unit": null,
+   "price": 5,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "White Blood Cells (WBC)",
+   "value": "0 - 5",
+   "unit": "cells/µL",
+   "price": null,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Red Blood Cells (RBC)",
+   "value": "0 - 10",
+   "unit": "/mm³",
+   "price": null,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Protein",
+   "value": "0.15 - 0.45",
+   "unit": "g/L",
+   "price": null,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Glucose",
+   "value": "2.8 - 4.2",
+   "unit": "mmol/L",
+   "price": null,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": null,
+   "component": "Opening Pressure",
+   "value": "10 - 20",
+   "unit": "H₂O",
+   "price": null,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": "ECG",
+   "component": "Rhythm",
+   "value": "Sinus",
+   "unit": null,
+   "price": 2,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": "Sputum sample",
+   "component": "Sputum Sample",
+   "value": "-",
+   "unit": "-",
+   "price": 3,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": "Stool Sample",
+   "component": "Stool Sample",
+   "value": "-",
+   "unit": "-",
+   "price": 3,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": "Wound Swab",
+   "component": "Wound Swab",
+   "value": "-",
+   "unit": "-",
+   "price": 4,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": "Viral Swab",
+   "component": "Viral Swab",
+   "value": "-",
+   "unit": "-",
+   "price": 3,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ },
+ {
+   "name": "Echocardiogram",
+   "component": "Echocardiogram",
+   "value": "-",
+   "unit": "-",
+   "price": 5,
+   "cat": "Others",
+   "type": "investigation",
+   "female": null
+ }
+]

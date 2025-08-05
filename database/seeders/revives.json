@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Bronze Revive",
+        "icon":"medical_services",
+        "price":5,
+        "damage":5
+    },
+    {
+        "name":"Silver Revive",
+        "icon":"medical_services",
+        "price":10,
+        "damage":10
+    },
+    {
+        "name":"Gold Revive",
+        "icon":"medical_services",
+        "price":25,
+        "damage":25
+    },
+    {
+        "name":"Platinu Revive",
+        "icon":"medical_services",
+        "price":50,
+        "damage":50
+    }
+]

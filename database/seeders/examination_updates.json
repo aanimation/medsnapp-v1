@@ -1,0 +1,136 @@
+[
+	{
+		"cat":"Cardiovascular",
+		"name":"Cardiovascular",
+		"price":9,
+		"icon":"cardiology",
+		"spec": [
+			"Heart rate: 125 beats/min",
+			"Blood pressure: 88/58 mmHg",
+			"Peripheral pulses: Rapid and weak",
+			"Capillary refill time: Prolonged (>2 seconds)",
+			"Jugular venous pressure (JVP): Not elevated"
+		]
+	},
+	{
+		"cat":"Cardiovascular",
+		"name":"Peripheral Vascular",
+		"price":6,
+		"icon":"femur",
+		"spec": [
+			"Peripheral cyanosis: Present in extremities",
+			"Peripheral oedema: Absent",
+			"Temperature of extremities: Cool to touch",
+			"Peripheral pulses: Rapid and weak",
+			"Capillary refill time: Prolonged"
+		]
+	},
+	{
+		"cat":"Respiratory",
+		"name":"Respiratory",
+		"price":8,
+		"icon":"respiratory_rate",
+		"spec": [
+			"Oxygen saturation: 90%",
+			"Respiratory rate: 26 breaths/min",
+			"Breath sounds: Wheezing bilaterally",
+			"Use of accessory muscles: Present",
+			"Trachea: Central"
+		]
+	},
+	{
+		"cat":"Gastoenterology",
+		"name":"Abdominal",
+		"price":9,
+		"icon":"emoji_people",
+		"spec": [
+			"Inspection: No visible abnormalities.",
+			"Palpation: Generalised tenderness, no guarding or rebound tenderness.",
+			"Auscultation: Hyperactive bowel sounds.",
+			"Percussion: Tympanic.",
+			"Organomegaly: No hepatosplenomegaly."
+		]
+	},
+	{
+		"cat":"Gastoenterology",
+		"name":"Digital Rectal",
+		"price":5,
+		"icon":"airline_seat_legroom_normal",
+		"spec": [
+			"Inspection: No visible abnormalities",
+			"Palpation: No tenderness or organomegaly",
+			"Auscultation: Normal bowel sounds",
+			"Percussion: No abnormalities",
+			"Abdominal distension: Absent"
+		]
+	},
+	{
+		"cat":"Neurological",
+		"name":"Upper Limb Neurological",
+		"price":10,
+		"icon":"self_improvement",
+		"spec": [
+			"Muscle strength: Normal",
+			"Sensation: Normal",
+			"Reflexes: Normal",
+			"Coordination: Intact",
+			"Tremor: Absent"
+		]
+	},
+	{
+		"cat":"Neurological",
+		"name":"Lower Limb Neurological",
+		"price":10,
+		"icon":"self_improvement",
+		"spec": [
+			"Muscle strength: Normal",
+			"Sensation: Normal",
+			"Reflexes: Normal",
+			"Coordination: Intact",
+			"Tremor: Absent"
+		]
+	},
+	{
+		"cat":"Neurological",
+		"name":"Cranial Nerve",
+		"price":7,
+		"icon":"neurology",
+		"spec": [
+			"CN I (Olfactory): Not tested",
+			"CN II (Optic): Visual acuity normal",
+			"CN III, IV, VI (Oculomotor, Trochlear, Abducens): Pupils equal, round, reactive to light and accommodation",
+			"CN V (Trigeminal): Normal sensation and motor function",
+			"CN VII (Facial): Facial movements symmetrical",
+			"CN VIII (Vestibulocochlear): Hearing normal",
+			"CN IX, X (Glossopharyngeal, Vagus): Uvula central, normal gag reflex",
+			"CN XI (Accessory): Shoulder shrug normal",
+			"CN XII (Hypoglossal): Tongue movements normal"
+		]
+	},
+	{
+		"cat":"Neurological",
+		"name":"Cerebellar",
+		"price":5,
+		"icon":"network_intelligence_update",
+		"spec": [
+			"Gait: Not tested",
+			"Coordination: Normal finger-to-nose and heel-to-shin testing",
+			"Romberg test: Negative",
+			"Rapid alternating movements: Normal",
+			"Nystagmus: Absent"
+		]
+	},
+	{
+		"cat":"Endocrine",
+		"name":"Thyroid",
+		"price":5,
+		"icon":"cognition",
+		"spec": [
+			"Inspection: No visible goitre",
+			"Palpation: Thyroid not enlarged, no nodules",
+			"Auscultation: No bruits",
+			"Percussion: No retrosternal dullness",
+			"Swallow test: Normal"
+		]
+	}
+]

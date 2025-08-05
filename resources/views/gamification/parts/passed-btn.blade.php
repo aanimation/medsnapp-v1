@@ -1,0 +1,1 @@
+<span>View detail</span>

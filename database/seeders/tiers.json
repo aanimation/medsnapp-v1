@@ -1,0 +1,110 @@
+
+[
+    {
+        "title":"free tier",
+        "tier_name":"Free",
+        "tier_desc":"Free Forever",
+        "price":0,
+        "total_price":0,
+        "size": 0,
+        "status":"active",
+        "features":{
+            "total_price": "Free Forever",
+            "title": "14 Days Access",
+            "items": [ 
+                "Limited 10 MCQs",
+                "Limited 2 Patient",
+                "Limited inventory",
+                "Limited Boosts",
+                "Limited documentation"
+            ]
+        }
+    },
+    {
+        "title":"starter tier",
+        "tier_name":"Starter",
+        "tier_desc":"3 Months Access",
+        "price":16,
+        "total_price":48,
+        "size": 3,
+        "status":"active",
+        "features":{
+            "total_price": "£48 Total",
+            "title": "3 Months Access",
+            "items": [ 
+                "Unlimited MCQs",
+                "4 Patients / Month",
+                "Unlimited inventory",
+                "Unlimited Boosts",
+                "Teams or Group",
+                "Complete documentation"
+            ]
+        }
+    },
+    {
+        "title":"standard tier",
+        "tier_name":"Standard",
+        "tier_desc":"6 Months Access",
+        "price":14,
+        "total_price":84,
+        "size": 6,
+        "status":"active",
+        "promo": -11,
+        "features":{
+            "total_price": "£84 Total",
+            "promo_price": "£75 Total",
+            "title": "6 Months Access",
+            "items": [ 
+                "Unlimited MCQs",
+                "4 Patients / Month",
+                "Unlimited inventory",
+                "Unlimited Boosts",
+                "Teams or Group",
+                "Complete documentation"
+            ]
+        }
+    },
+    {
+        "title":"pro tier",
+        "tier_name":"Pro",
+        "tier_desc":"12 Months Access",
+        "price":12,
+        "total_price":144,
+        "size": 12,
+        "status":"active",
+        "features":{
+            "total_price": "£144 Total",
+            "title": "12 Months Access",
+            "items": [ 
+                "Unlimited MCQs",
+                "8 Patients / Month",
+                "Unlimited inventory",
+                "Unlimited Boosts",
+                "Teams or Group",
+                "Complete documentation"
+            ]
+        }
+    },
+    {
+        "title":"Enterprise tier",
+        "tier_name":"Enterprise",
+        "tier_desc":"Bespoke Access",
+        "price":999,
+        "total_price":0,
+        "size": 0,
+        "status":"draft",
+        "features":{
+            "total_price": "Contact Us",
+            "title": "Contact Sales",
+            "items": [ 
+                "Unlimited MCQs",
+                "Unlimited Patients",
+                "Unlimited inventory",
+                "Unlimited Boosts",
+                "Teams or Group",
+                "Complete documentation"
+            ]
+        }
+    }
+    
+]

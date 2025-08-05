@@ -1,0 +1,687 @@
+[
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Haemoglobin (Hb)",
+   "patient": "118"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Platelets ",
+   "patient": "95"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "White Blood Cells (WBC)",
+   "patient": "24.5"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Neutrophils",
+   "patient": "20"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Lymphocytes",
+   "patient": "2.5"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Monocytes",
+   "patient": "1.2"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Eosinophils",
+   "patient": "0.2"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Basophils",
+   "patient": "0.1"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Haematocrit",
+   "patient": "0.36"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Red Cell Count (RCC)",
+   "patient": "4.2"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Mean Cell Volume (MCV)",
+   "patient": "83"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Mean Corpuscular Volume (MCH)",
+   "patient": "28"
+ },
+ {
+   "name": "Full Blood Count (FBC)",
+   "title": "Reticulocyte Count",
+   "patient": "100"
+ },
+ {
+   "name": "Urea and Electrolytes (U&Es)",
+   "title": "Sodium",
+   "patient": "130"
+ },
+ {
+   "name": "Urea and Electrolytes (U&Es)",
+   "title": "Potassium",
+   "patient": "5"
+ },
+ {
+   "name": "Urea and Electrolytes (U&Es)",
+   "title": "Chloride",
+   "patient": "98"
+ },
+ {
+   "name": "Urea and Electrolytes (U&Es)",
+   "title": "Bicarbonate",
+   "patient": "18"
+ },
+ {
+   "name": "Urea and Electrolytes (U&Es)",
+   "title": "Urea",
+   "patient": "12.5"
+ },
+ {
+   "name": "Urea and Electrolytes (U&Es)",
+   "title": "Creatinine",
+   "patient": "180"
+ },
+ {
+   "name": "Urea and Electrolytes (U&Es)",
+   "title": "eGFR",
+   "patient": "35"
+ },
+ {
+   "name": "Liver Function Tests (LFTs)",
+   "title": "Total Bilirubin",
+   "patient": "25"
+ },
+ {
+   "name": "Liver Function Tests (LFTs)",
+   "title": "Alanine Transferase (ALT)",
+   "patient": "55"
+ },
+ {
+   "name": "Liver Function Tests (LFTs)",
+   "title": "Aspartate Transaminase (AST)",
+   "patient": "60"
+ },
+ {
+   "name": "Liver Function Tests (LFTs)",
+   "title": "Alkaline Phosphatase (ALP)",
+   "patient": "85"
+ },
+ {
+   "name": "Liver Function Tests (LFTs)",
+   "title": "Gamma Glutamyl Transferase (GGT)",
+   "patient": "40"
+ },
+ {
+   "name": "Liver Function Tests (LFTs)",
+   "title": "Albumin",
+   "patient": "32"
+ },
+ {
+   "name": "Liver Function Tests (LFTs)",
+   "title": "Total Protein",
+   "patient": "65"
+ },
+ {
+   "name": "C-reactive Protein (CRP)",
+   "title": "C-reactive Protein (CRP)",
+   "patient": "150"
+ },
+ {
+   "name": "Coagulation Screen",
+   "title": "Prothrombin Time (PT)",
+   "patient": "15"
+ },
+ {
+   "name": "Coagulation Screen",
+   "title": "Activated Partial Thromboplastin Time (APTT)",
+   "patient": "40"
+ },
+ {
+   "name": "Coagulation Screen",
+   "title": "Thrombin Time (TT)",
+   "patient": "18"
+ },
+ {
+   "name": "Coagulation Screen",
+   "title": "Fibrinogen",
+   "patient": "1.5"
+ },
+ {
+   "name": "International Normalised Ratio (INR)",
+   "title": "International Normalised Ratio (INR)",
+   "patient": "1.3"
+ },
+ {
+   "name": "D-dimer",
+   "title": "D-dimer",
+   "patient": "850"
+ },
+ {
+   "name": "Lactate",
+   "title": "Lactate",
+   "patient": "4.5"
+ },
+ {
+   "name": "Haematinics",
+   "title": "Ferritin",
+   "patient": "80"
+ },
+ {
+   "name": "Haematinics",
+   "title": "Vitamin B12",
+   "patient": "320"
+ },
+ {
+   "name": "Haematinics",
+   "title": "Folate",
+   "patient": "10"
+ },
+ {
+   "name": "Haematinics",
+   "title": "Total Serum Iron",
+   "patient": "10"
+ },
+ {
+   "name": "Haematinics",
+   "title": "Transferrin",
+   "patient": "2.5"
+ },
+ {
+   "name": "Haematinics",
+   "title": "Transferrin Saturation",
+   "patient": "25"
+ },
+ {
+   "name": "Haematinics",
+   "title": "Total Iron Binding Capacity (TIBC)",
+   "patient": "60"
+ },
+ {
+   "name": "Erythrocyte Sedimentation Rate (ESR)",
+   "title": "Erythrocyte Sedimentation Rate (ESR)",
+   "patient": "70"
+ },
+ {
+   "name": "Lipid Profile",
+   "title": "Total Cholesterol",
+   "patient": "4.5"
+ },
+ {
+   "name": "Lipid Profile",
+   "title": "Triglycerides",
+   "patient": "1.2"
+ },
+ {
+   "name": "Lipid Profile",
+   "title": "High Density Lipoproteins (HDL)",
+   "patient": "1.2"
+ },
+ {
+   "name": "Lipid Profile",
+   "title": "Low Density Lipoproteins (LDL)",
+   "patient": "2.5"
+ },
+ {
+   "name": "Thyroid Function Tests",
+   "title": "Thyroid Stimulating Hormone (TSH)",
+   "patient": "2.5"
+ },
+ {
+   "name": "Thyroid Function Tests",
+   "title": "Free Triiodothyronine (T3)",
+   "patient": "4.5"
+ },
+ {
+   "name": "Thyroid Function Tests",
+   "title": "Free Thyroxine (T4)",
+   "patient": "14"
+ },
+ {
+   "name": "Thyroid Function Tests",
+   "title": "Total thyroxine (T4)",
+   "patient": "105"
+ },
+ {
+   "name": "Bone Profile",
+   "title": "Adjusted Calcium",
+   "patient": "2.1"
+ },
+ {
+   "name": "Bone Profile",
+   "title": "Phosphate",
+   "patient": "1.1"
+ },
+ {
+   "name": "Bone Profile",
+   "title": "Albumin",
+   "patient": "32"
+ },
+ {
+   "name": "Bone Profile",
+   "title": "Alkaline Phosphatase",
+   "patient": "85"
+ },
+ {
+   "name": "Parathyroid Hormone (PTH)",
+   "title": "Parathyroid Hormone",
+   "patient": "35"
+ },
+ {
+   "name": "Magnesium",
+   "title": "Magnesium",
+   "patient": "0.8"
+ },
+ {
+   "name": "Troponin",
+   "title": "Troponin T",
+   "patient": "<14"
+ },
+ {
+   "name": "NT-proBNP",
+   "title": "NT-proBNP",
+   "patient": "90"
+ },
+ {
+   "name": "Plasma Osmolality",
+   "title": "Plasma Osmolality",
+   "patient": "290"
+ },
+ {
+   "name": "Creatinine Kinase",
+   "title": "Creatinine Kinase",
+   "patient": "120"
+ },
+ {
+   "name": "Glucose",
+   "title": "Glucose",
+   "patient": "7.5"
+ },
+ {
+   "name": "HbA1c",
+   "title": "HbA1c",
+   "patient": "37.7"
+ },
+ {
+   "name": "Amylase ",
+   "title": "Amylase",
+   "patient": "45"
+ },
+ {
+   "name": "Uric Acid",
+   "title": "Uric Acid",
+   "patient": "350"
+ },
+ {
+   "name": "Cortisol",
+   "title": "Cortisol",
+   "patient": "500"
+ },
+ {
+   "name": "Prolactin",
+   "title": "Prolactin",
+   "patient": "250"
+ },
+ {
+   "name": "Ketones",
+   "title": "Ketones",
+   "patient": "<0.6"
+ },
+ {
+   "name": "Blood Culture",
+   "title": "Blood Culture",
+   "patient": "Pending"
+ },
+ {
+   "name": "Peripheral Blood Film",
+   "title": "Peripheral Blood Film",
+   "patient": "Toxic granulation of neutrophils, no blast cells"
+ },
+ {
+   "name": "",
+   "title": "",
+   "patient": ""
+ },
+ {
+   "name": "Group and Save",
+   "title": "Group and Save",
+   "patient": "B positive"
+ },
+ {
+   "name": "Crossmatch",
+   "title": "Crossmatch",
+   "patient": "2 units requested"
+ },
+ {
+   "name": "Arterial Blood Gas",
+   "title": "pH",
+   "patient": "7.3"
+ },
+ {
+   "name": "Arterial Blood Gas",
+   "title": "pO₂",
+   "patient": "10"
+ },
+ {
+   "name": "Arterial Blood Gas",
+   "title": "PCO₂",
+   "patient": "4.3"
+ },
+ {
+   "name": "Arterial Blood Gas",
+   "title": "HCO₃",
+   "patient": "18"
+ },
+ {
+   "name": "Arterial Blood Gas",
+   "title": "Base Excess",
+   "patient": "-6"
+ },
+ {
+   "name": "Venous Blood Gas",
+   "title": "pH",
+   "patient": "7.32"
+ },
+ {
+   "name": "Venous Blood Gas",
+   "title": "pO₂",
+   "patient": "5.3"
+ },
+ {
+   "name": "Venous Blood Gas",
+   "title": "PCO₂",
+   "patient": "6"
+ },
+ {
+   "name": "Venous Blood Gas",
+   "title": "HCO₃",
+   "patient": "22"
+ },
+ {
+   "name": "Venous Blood Gas",
+   "title": "Base Excess",
+   "patient": "-2"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "pH",
+   "patient": "5"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "Specific Gravity",
+   "patient": "1.025"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "Protein",
+   "patient": "+"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "Glucose",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "Ketones",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "Leukocytes",
+   "patient": "+"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "Nitrite",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "Bilirubin",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "Urobilinogen",
+   "patient": "0.4"
+ },
+ {
+   "name": "Urinalysis",
+   "title": "Blood",
+   "patient": "+++"
+ },
+ {
+   "name": "Urine Culture",
+   "title": "Urine Culture",
+   "patient": "Pending"
+ },
+ {
+   "name": "24 Hour Urine Collection",
+   "title": "Volume",
+   "patient": "2,000"
+ },
+ {
+   "name": "25 Hour Urine Collection",
+   "title": "Creatinine",
+   "patient": "15"
+ },
+ {
+   "name": "26 Hour Urine Collection",
+   "title": "Protein",
+   "patient": "150"
+ },
+ {
+   "name": "27 Hour Urine Collection",
+   "title": "Calcium",
+   "patient": "4"
+ },
+ {
+   "name": "28 Hour Urine Collection",
+   "title": "Sodium",
+   "patient": "150"
+ },
+ {
+   "name": "29 Hour Urine Collection",
+   "title": "Potassium",
+   "patient": "70"
+ },
+ {
+   "name": "30 Hour Urine Collection",
+   "title": "Urea Nitrogen",
+   "patient": "300"
+ },
+ {
+   "name": "31 Hour Urine Collection",
+   "title": "Uric Acid",
+   "patient": "4.8"
+ },
+ {
+   "name": "32 Hour Urine Collection",
+   "title": "Chloride",
+   "patient": "170"
+ },
+ {
+   "name": "33 Hour Urine Collection",
+   "title": "Phosphate",
+   "patient": "20"
+ },
+ {
+   "name": "34 Hour Urine Collection",
+   "title": "Magnesium",
+   "patient": "4"
+ },
+ {
+   "name": "35 Hour Urine Collection",
+   "title": "Cortisol",
+   "patient": "180"
+ },
+ {
+   "name": "Urine Cytology",
+   "title": "Urine Cytology",
+   "patient": "No malignant cells"
+ },
+ {
+   "name": "Urine Osmolality",
+   "title": "Urine Osmolality",
+   "patient": "800"
+ },
+ {
+   "name": "β-HCG",
+   "title": "β-HCG",
+   "patient": "Negative"
+ },
+ {
+   "name": "Bence Jones Proteins",
+   "title": "Bence Jones Proteins",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Amphetamine",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Benzodiazepines",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Cannabinoids",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Cocaine",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Opiates",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Methadone",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Barbiturates",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Phenycycline (PCP)",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Tricyclic Antidepressants (TCA)",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "MDMA (Ecstasy)",
+   "patient": "Negative"
+ },
+ {
+   "name": "Urinary Drug Screen",
+   "title": "Synthetic Cannabinoids",
+   "patient": "3"
+ },
+ {
+   "name": "Chest X-ray",
+   "title": "Chest X-ray",
+   "patient": "Clear lung fields, no evidence of consolidation, pleural effusion, or pneumothorax."
+ },
+ {
+   "name": "Abdominal X-ray",
+   "title": "Abdominal X-ray",
+   "patient": "No signs of bowel obstruction or perforation; normal gas pattern throughout."
+ },
+ {
+   "name": "CT Head",
+   "title": "CT Head",
+   "patient": "No acute intracranial haemorrhage, mass effect, or hydrocephalus. Normal brain parenchyma and ventricular system."
+ },
+ {
+   "name": "Musculoskeletal X-ray",
+   "title": "Musculoskeletal X-ray",
+   "patient": "No fractures or dislocations noted. Normal bone density and joint spaces preserved."
+ },
+ {
+   "name": "Lumbar Puncture",
+   "title": "Appearance",
+   "patient": "Clear and colourless"
+ },
+ {
+   "name": "Lumbar Puncture",
+   "title": "White Blood Cells (WBC)",
+   "patient": "5"
+ },
+ {
+   "name": "Lumbar Puncture",
+   "title": "Red Blood Cells (RBC)",
+   "patient": "0"
+ },
+ {
+   "name": "Lumbar Puncture",
+   "title": "Protein",
+   "patient": "0.45"
+ },
+ {
+   "name": "Lumbar Puncture",
+   "title": "Glucose",
+   "patient": "3"
+ },
+ {
+   "name": "Lumbar Puncture",
+   "title": "Opening Pressure",
+   "patient": "18"
+ },
+ {
+   "name": "ECG",
+   "title": "Rhythm",
+   "patient": "Sinus tachycardia, ventricular rate 120bpm"
+ },
+ {
+   "name": "Sputum sample",
+   "title": "Sputum Sample",
+   "patient": "No growth of pathogenic organisms"
+ },
+ {
+   "name": "Stool Sample",
+   "title": "Stool Sample",
+   "patient": "No pathogens isolated, no ova or parasites seen"
+ },
+ {
+   "name": "Wound Swab",
+   "title": "Wound Swab",
+   "patient": "Staphylococcus aureus isolated"
+ },
+ {
+   "name": "Viral Swab",
+   "title": "Viral Swab",
+   "patient": "Negative for influenza and other respiratory viruses"
+ },
+ {
+   "name": "Echocardiogram",
+   "title": "Echocardiogram",
+   "patient": "Normal left ventricular function, no valvular abnormalities detected"
+ }
+]
